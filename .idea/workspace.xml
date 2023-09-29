@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b664b5af-59c8-4123-abee-80d81974d80a" name="Changes" comment="add method printTotalStudents to class School">
+    <list default="true" id="b664b5af-59c8-4123-abee-80d81974d80a" name="Changes" comment="add method printTotalStudents to class School change size to toString">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/school/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/school/School.java" afterDir="false" />
@@ -105,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695976643705</updated>
-      <workItem from="1695976644815" duration="5938000" />
+      <workItem from="1695976644815" duration="7444000" />
     </task>
     <task id="LOCAL-00001" summary="add List students and 3 students">
       <option name="closed" value="true" />
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695981579297</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add method printTotalStudents to class School change size to toString">
+      <option name="closed" value="true" />
+      <created>1695982620135</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695982620135</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +168,7 @@
     <MESSAGE value="add method addStudent with tests" />
     <MESSAGE value="set List&lt;Student&gt; studentsOfSchool private" />
     <MESSAGE value="add method printTotalStudents to class School" />
-    <option name="LAST_COMMIT_MESSAGE" value="add method printTotalStudents to class School" />
+    <MESSAGE value="add method printTotalStudents to class School change size to toString" />
+    <option name="LAST_COMMIT_MESSAGE" value="add method printTotalStudents to class School change size to toString" />
   </component>
 </project>

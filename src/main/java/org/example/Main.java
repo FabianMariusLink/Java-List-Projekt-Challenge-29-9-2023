@@ -27,6 +27,7 @@ public class Main {
 
         school1.printTotalStudents();
 
+        //System.out.println(school1.findStudent("rt546332"));
 
         for (Student s : students){
             System.out.println(s.getFirstName());

@@ -5,9 +5,10 @@ import java.util.List;
 import java.util.Objects;
 
 public class School {
-    private List<Student> studentsOfSchool = new ArrayList<>();
+    private List<Student>studentsOfSchool;
 
     public School() {
+        studentsOfSchool = new ArrayList<>();
     }
 
    /* public static void addStudent(School school, Student student){
@@ -19,8 +20,18 @@ public class School {
     }
 
     public void printTotalStudents(){
-        System.out.println(this.studentsOfSchool.size());
+        System.out.println(this.studentsOfSchool);
     }
+
+    /*public Student findStudent(String matriculationNumber){
+        if(this.studentsOfSchool.contains(matriculationNumber)){
+
+        };
+
+        if (index >= 0) {
+            System.out.println(matriculationNumber + " wurde an Position " + index + " gefunden.");
+        } return null;
+    }*/
 
     public List<Student> getStudentsOfSchool() {
         return studentsOfSchool;
