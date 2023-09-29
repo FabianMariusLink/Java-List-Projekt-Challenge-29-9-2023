@@ -18,6 +18,10 @@ public class School {
         school.getStudentsOfSchool().add(student);
     }
 
+    public void printTotalStudents(){
+        System.out.println(this.studentsOfSchool.size());
+    }
+
     public List<Student> getStudentsOfSchool() {
         return studentsOfSchool;
     }
