@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b664b5af-59c8-4123-abee-80d81974d80a" name="Changes" comment="add class Student">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/school/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b664b5af-59c8-4123-abee-80d81974d80a" name="Changes" comment="add class School">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/school/SchoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/school/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/school/School.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -39,6 +40,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -47,6 +50,54 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.school" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SchoolTest.addStudent_when2InstancesOfStudent_thenTheLengthOfStudentsArrayOfInstanceOfSchoolIs2">
+    <configuration name="SchoolTest.addStudent_when2InstancesOfStudent_thenTheLengthOfStudentsArrayOfInstanceOfSchoolIs2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-List-Projekt-Challenge-29-9-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.school" />
+      <option name="MAIN_CLASS_NAME" value="org.example.school.SchoolTest" />
+      <option name="METHOD_NAME" value="addStudent_when2InstancesOfStudent_thenTheLengthOfStudentsArrayOfInstanceOfSchoolIs2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolTest.addStudent_whenStaticMethodIsExecuted_thenAddInstanceOfStudentToStudentsArrayOfInstanceOfSchool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-List-Projekt-Challenge-29-9-23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.school" />
+      <option name="MAIN_CLASS_NAME" value="org.example.school.SchoolTest" />
+      <option name="METHOD_NAME" value="addStudent_whenStaticMethodIsExecuted_thenAddInstanceOfStudentToStudentsArrayOfInstanceOfSchool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SchoolTest.addStudent_when2InstancesOfStudent_thenTheLengthOfStudentsArrayOfInstanceOfSchoolIs2" />
+        <item itemvalue="JUnit.SchoolTest.addStudent_whenStaticMethodIsExecuted_thenAddInstanceOfStudentToStudentsArrayOfInstanceOfSchool" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,8 +106,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695976643705</updated>
-      <workItem from="1695976644815" duration="909000" />
+      <workItem from="1695976644815" duration="4232000" />
     </task>
+    <task id="LOCAL-00001" summary="add List students and 3 students">
+      <option name="closed" value="true" />
+      <created>1695977761755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695977761755</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add class School">
+      <option name="closed" value="true" />
+      <created>1695978139445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695978139445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add class Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class Student" />
+    <MESSAGE value="add List students and 3 students" />
+    <MESSAGE value="add class School" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class School" />
   </component>
 </project>
